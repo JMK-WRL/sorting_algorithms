@@ -38,3 +38,4 @@ void custom_swap_nodes(listint_t **head, listint_t **node1, listint_t *node2);
 void selection_sort(int *array, size_t size);
 void custom_swap_int(int *a, int *b);
 void quick_sort(int *array, size_t size);
+void shell_sort(int *array, size_t size);
